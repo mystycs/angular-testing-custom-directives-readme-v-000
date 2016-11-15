@@ -1,0 +1,20 @@
+[
+  {
+    "description": "should have an initial 0 count",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 492
+  },
+  {
+    "description": "should increment when we click on it",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 108
+  }
+]
